@@ -1,0 +1,25 @@
+{
+  "name": "fs-start-auto",
+  "version": "1.2.0",
+  "description": "FS Start Auto Referral and Adoption System - Deep Ocean Edition",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Paizutempest x Yaelanit",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/prompts": "^5.0.0",
+    "chalk": "^5.6.2",
+    "dayjs": "^1.11.20",
+    "dotenv": "^16.4.5",
+    "gradient-string": "^2.0.2",
+    "imap": "^0.8.19",
+    "mailparser": "^3.9.8",
+    "playwright": "^1.43.1",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "table": "^6.8.2"
+  }
+}
